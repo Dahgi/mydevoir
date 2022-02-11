@@ -1,0 +1,29 @@
+#pt{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: groove;
+    width: 400px;
+    padding: 20px 150px;
+}
+.vt{
+    color: rgb(25, 0, 255);
+    font-size: xx-large;
+}
+.n{
+    color: chocolate;
+    font: lighter;
+    padding:20px 130px;
+    font-size: larger;
+    
+    
+}
+
+body{
+    background-color: burlywood;
+}
+#im{
+    width: 500x;
+    height: 600px;
+    padding-left: 5% 5%;
+}
+    

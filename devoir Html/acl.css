@@ -1,0 +1,43 @@
+.b{
+   font-style: italic; 
+   font-size: 120px;
+}
+.o{
+    width: 320px;
+    height: 40px;
+    margin: 3%;
+    border-bottom-color: red;
+    background-color: red;
+}
+
+.u{
+    width: 320px;
+    height: 40px;
+    margin: 3%;
+    border-bottom-color:green;
+    background-color:green;
+}
+.y{
+    width: 320px;
+    height: 40px;
+    margin: 3%;
+    border-bottom-color:blue;
+    background-color:white;
+}
+#t{
+    font-size: 360%;
+    color: chartreuse;
+   
+}
+
+#e{
+    font-size: 250%;
+    color:red;
+}
+#r{
+   background-size: 100%;
+    background-image: cover;
+    background-repeat: no-repeat;
+    
+  
+}

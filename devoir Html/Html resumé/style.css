@@ -1,0 +1,20 @@
+#mon-titre{
+color:red;
+text-align: center;
+border-style: double;
+
+}
+
+.sous-titre{
+    color:green;
+       
+}
+#det{
+    text-align:center;
+    font-size-adjust:"200%";
+}
+
+.ic{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
